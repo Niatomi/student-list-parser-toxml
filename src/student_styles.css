@@ -1,0 +1,36 @@
+ID {
+    
+    font-size:12pt;
+    font-style:italic
+    font-weight:bold;
+}
+
+STUDENT {
+    display:block;
+    margin-top:12pt;
+    font-size:10pt
+}
+
+NAMES {
+    font-size:12pt;
+    font-weight:bold;
+}
+
+INFO {
+    display:block;
+    font-weight:bold
+}
+
+BINDING {
+    display:block;
+    margin-left:15pt
+}
+
+PAGES {
+    display:none
+}
+
+PRICE {
+    display:block;
+    margin-left:15pt
+}
